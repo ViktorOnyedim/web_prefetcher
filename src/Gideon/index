@@ -1,0 +1,23 @@
+print("Welcome to python training in Nigerian");
+studentage = 50
+print(studentage)
+x = 10
+y = 25
+x=y
+print("x =", x)
+print("y =", y)
+word = '{0} is easy to understand than {1}'.format('SQL', 'PYTHON')
+print(word)
+name = input ("Enter your name:")
+age = input("Enter your age:")
+print("Hello, "+ name+"! You are " + age +"years old")
+# 1 Building a healthcare application
+# Goal: To design a software for tracking health related data.
+# Data: Exercise routines, medical records dietary habits
+# 2. Educational Tools
+# Decision Making : 1 If statement 2. For loop 3. While Loop
+# They are Known as control flow tools
+# Conditions Statement are: comparison Statement == (true else false), !=(not equals) < (Smaller or less than)
+# > (Greater than), <= (Smaller than or Equal To), >=(Greater or equal To)
+#    LOGICAL OPERATORS 1. AND, 2. OR, 3. NOT
+5==5 and 2.1
